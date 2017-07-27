@@ -20,7 +20,7 @@ html, body {
 
 nav{
 	background-color: #ffffff;
-	background-image: url(../img/bent-creek-logo.png);
+	background-image: url(./img/bent-creek-logo.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-origin: content-box;
